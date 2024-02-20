@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joanne-Emilly
 - 👀 I’m interested in: Front-End
 - 🌱 I’m currently learning: JavaScript, TypeScript, NodeJs e React.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Olá, me adicione no WhatsApp: https://wa.me/qr/QL2GCRM5L25BF1
 
 <!---
