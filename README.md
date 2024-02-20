@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joanne-Emilly
 - 👀 I’m interested in: Front-End
-- 🧠⚙️Possuo habilidades básicas em HTML5, CSS3.
+- 🧠⚙️Possuo habilidades com HTML5, CSS3.
 - 🌱 I’m currently learning: JavaScript, TypeScript, NodeJs e React.
 - 📫 How to reach me: Olá, me adicione no WhatsApp: https://wa.me/qr/QL2GCRM5L25BF1
 
