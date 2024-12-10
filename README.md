@@ -12,7 +12,7 @@
 
 ---
 
-![Emilly GitHub stats](https://github-readme-stats.vercel.app/api?username=joanne-emilly&show_icons=true&theme=dracula)
+![Emilly GitHub stats](https://github-readme-stats.vercel.app/api?username=Joanne-Emilly&show_icons=true&theme=dracula)
 
 ### 🚀 Sobre Mim  
  - Explorando o mundo do desenvolvimento front-end, um código de cada vez.  
