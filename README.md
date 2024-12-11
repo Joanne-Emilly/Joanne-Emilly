@@ -21,7 +21,7 @@
 ---
 
 ### 🎯 Objetivos  
-- Buscando aprimorar minhas habilidades em HTML, CSS e JavaScript.  
+- Buscando aprimorar minhas habilidades em HTML, CSS, JavaScript e TypeScript.  
 - Em constante evolução, com foco em frameworks modernos como React e Node.js.  
 - Construindo projetos que conectam design e funcionalidade.  
 
